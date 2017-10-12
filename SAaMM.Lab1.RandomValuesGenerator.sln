@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemerAlgorithm", "LemerAlgorithm\LemerAlgorithm.csproj", "{092B1B8A-955C-4D58-830F-65317D215E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemerAlgorithm.Tests", "LemerAlgorithm.Tests\LemerAlgorithm.Tests.csproj", "{A36FCEDA-72F1-4648-80F3-52ECBE3F88F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemerAlgoritm.UI.WinForms", "LemerAlgoritm.UI.WinForms\LemerAlgoritm.UI.WinForms.csproj", "{C98CB9C6-EE15-4524-B5A7-E1479B10F844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092B1B8A-955C-4D58-830F-65317D215E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092B1B8A-955C-4D58-830F-65317D215E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092B1B8A-955C-4D58-830F-65317D215E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092B1B8A-955C-4D58-830F-65317D215E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36FCEDA-72F1-4648-80F3-52ECBE3F88F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36FCEDA-72F1-4648-80F3-52ECBE3F88F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36FCEDA-72F1-4648-80F3-52ECBE3F88F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36FCEDA-72F1-4648-80F3-52ECBE3F88F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98CB9C6-EE15-4524-B5A7-E1479B10F844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98CB9C6-EE15-4524-B5A7-E1479B10F844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98CB9C6-EE15-4524-B5A7-E1479B10F844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98CB9C6-EE15-4524-B5A7-E1479B10F844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
